@@ -6,3 +6,7 @@
 ![demo](./media/fft.svg)
 ### 離散コサイン変換（DCT）
 ![demo](./media/dct.png)
+### 環境
+- python3.8
+- numpy 1.18.5
+- matplotlib 3.2.1
